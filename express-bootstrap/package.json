@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap",
+  "version": "4",
+  "description": "CSS Framework",
+  "main": "index.js",
+  "repository": "url",
+  "author": "Tuncay Basak",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "node-sass-middleware": "^0.11.0",
+    "nunjucks": "^3.2.2"
+  }
+}
